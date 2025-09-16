@@ -1,0 +1,61 @@
+{
+  "category": "task-queues",
+  "created_date": "2025-09-15T22:48:57.616959",
+  "default_ports": [
+    80,
+    443,
+    4730
+  ],
+  "dependencies": [],
+  "description": "gearman is a free and open-source job server. Gearman provides generic application framework for farming out work",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/task-queues/gearman",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/task-queues/gearman",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.616975",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "gearman",
+  "repository_url": "https://github.com/howtomgr/gearman",
+  "spec_version": "2.0",
+  "subcategory": "task-queues",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "task-queues",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "gearman Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/task-queues/gearman"
+}
